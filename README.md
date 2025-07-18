@@ -374,7 +374,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=j4code&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="450" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=j4code&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="550" alt="streak graph"  />
 </div>
 
 ###
