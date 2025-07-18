@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/dev-rjay-ortiz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20on%20%E2%9E%A1%EF%B8%8F&color=blue&logoColor=white&labelColor=black&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/oz4code" target="_blank">
+  <a href="https://x.com/oz4code" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%F0%9D%95%8F.com&logo=twitter&label=Follow%20on%20%E2%9E%A1%EF%B8%8F&color=black&logoColor=&labelColor=black&style=for-the-badge" height="32" alt="twitter logo"  />
   </a>
 </div>
