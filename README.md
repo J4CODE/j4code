@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="535" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+  <img height="540" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
 
 ###
@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="left">Hi There! 👋</h1>
 
 ###
 
