@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/dev-rjay-ortiz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect%20on%20%E2%9E%A1%EF%B8%8F&color=blue&logoColor=white&labelColor=black&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
