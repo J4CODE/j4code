@@ -10,27 +10,55 @@
 
 ###
 
-<h1 align="left">Hi There! </h1>
+<h1 align="left">Hi There!</h1>
 
-###
+<h3 align="left">About Me</h3>
 
-<h3 align="left">  About Me</h3>
+<p align="left">
+I’m a Principal Solutions Architect and full-stack engineer with 12+ years of experience designing and building scalable, data-driven applications that solve real business problems.
 
-###
+My background spans SaaS platforms, analytics systems, customer-experience tooling, and enterprise integrations. I specialize in React, TypeScript, Node.js, API design, and modern cloud architectures, with a strong focus on performance, usability, and security.
 
-<p align="left"> I’m working as...<br><br> A Principal Solutions Architect with 12+ years of experience in building scalable full-stack applications that prioritize user-centric design, performance, and actionable insights. I specialize in React, TypeScript, Node.js, the JavaScript Ecosystem, and API integrations. My passion is creating meaningful, real-world impact through technology. I’ve developed everything from SaaS platforms to NPS feedback systems, and I bring deep expertise in performance optimization, security, and responsive design.<br><br>I work well at the intersection of development and problem-solving. Whether it’s improving user engagement, enhancing backend systems, or building custom data-driven experiences. I believe in clean, maintainable code and always strive for intuitive, efficient solutions.<br><br>What I’m Working On:<br><br>    Building next-gen user feedback platforms that leverage AI for actionable insights.<br><br>    Optimizing applications for performance, security, and user experience at scale.<br><br>    Constantly learning and implementing the latest in web technologies, including serverless architecture and AI-powered tools.<br><br> Looking for:<br><br>I’m interested in collaborating on innovative projects, especially those that solve real-world problems. Whether it’s a contract, full-time role, or a freelance gig, I’m passionate about making a meaningful impact through code.<br><br>
-  
-  
-  
-  In my free time I:<br><br>
-  
-  I like to Build and experiment with real-world products that turn complex data into practical insights. I enjoy exploring emerging technologies, especially AI-assisted workflows, analytics platforms, and performance-focused web applications and applying them to solve meaningful business problems.
+I’ve built production systems end-to-end. From early prototypes to deployed SaaS platforms, including feedback intelligence tools, analytics workflows, and customer-insight platforms designed to turn complex data into clear, actionable decisions.
 
-Much of my independent work focuses on transforming raw, fragmented data into clear, actionable intelligence for operators, founders, and teams who need to make fast decisions. I’m particularly interested in the intersection of product design, customer experience, and data systems, where thoughtful architecture can dramatically improve usability, adoption, and business outcomes.
+I work best at the intersection of engineering, product thinking, and real-world problem solving. Translating messy business requirements into clean, scalable technical systems.
+</p>
 
-Whether through side projects, SaaS experiments, or open-source collaboration, I’m driven by building tools that reduce friction, simplify complexity, and help people understand what’s actually happening in their systems.<br><br>
-  
-  Outside of code, I love creating music, painting, and seeking inspiration through the world around me, whether that’s through art or adventures like skydiving.</p>
+<h3 align="left">What I’m Working On</h3>
+
+<p align="left">
+• Building data-intelligence SaaS platforms focused on customer feedback and analytics  
+• Scaling products from prototype to real-world adoption  
+• Designing systems that make complex information intuitive and actionable  
+• Leveraging AI-assisted workflows to improve product velocity and insight generation  
+</p>
+
+<h3 align="left">How I Think About Engineering</h3>
+
+<p align="left">
+I care deeply about building software that people actually use.
+
+Clean architecture matters. Performance matters. Security matters.  
+But usability, clarity, and business value matter just as much.
+
+The most impactful systems aren’t the most complex. They’re the ones that make difficult problems feel simple.
+</p>
+
+<h3 align="left">In My Free Time</h3>
+
+<p align="left">
+I build and experiment with products that transform fragmented data into practical insights for founders, operators, and teams making real decisions.
+
+I’m especially interested in the intersection of:
+• Product design  
+• Customer experience  
+• Analytics systems  
+• AI-assisted workflows  
+
+Side projects, SaaS experiments, and open-source collaboration are where I test ideas quickly and learn what actually works outside of theory.
+
+Outside of technology, I enjoy creating music, painting, and finding inspiration through art, travel, and adventure.
+</p>
 
 ###
 
