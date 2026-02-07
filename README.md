@@ -49,7 +49,7 @@ The most impactful systems aren’t the most complex. They’re the ones that ma
 <p align="left">
 I build and experiment with products that transform fragmented data into practical insights for founders, operators, and teams making real decisions.
 
-I’m especially interested in the intersection of:
+I’m especially interested in the intersection of: <br>
 • Product design  
 • Customer experience  
 • Analytics systems  
