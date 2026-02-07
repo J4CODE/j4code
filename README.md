@@ -10,15 +10,27 @@
 
 ###
 
-<h1 align="left">Hi There! 👋</h1>
+<h1 align="left">Hi There! </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me</h3>
 
 ###
 
-<p align="left">🔭 I’m working as...<br><br>👋 A Principal Solutions Architect with 12+ years of experience in building scalable full-stack applications that prioritize user-centric design, performance, and actionable insights. I specialize in React, TypeScript, Node.js, the JavaScript Ecosystem, and API integrations. My passion is creating meaningful, real-world impact through technology. I’ve developed everything from SaaS platforms to NPS feedback systems, and I bring deep expertise in performance optimization, security, and responsive design.<br><br>I work well at the intersection of development and problem-solving. Whether it’s improving user engagement, enhancing backend systems, or building custom data-driven experiences. I believe in clean, maintainable code and always strive for intuitive, efficient solutions.<br><br>📚 What I’m Working On:<br><br>    Building next-gen user feedback platforms that leverage AI for actionable insights.<br><br>    Optimizing applications for performance, security, and user experience at scale.<br><br>    Constantly learning and implementing the latest in web technologies, including serverless architecture and AI-powered tools.<br><br>🚀 Looking for:<br><br>I’m interested in collaborating on innovative projects, especially those that solve real-world problems. Whether it’s a contract, full-time role, or a freelance gig, I’m passionate about making a meaningful impact through code.<br><br>⚡ In my free time I:<br><br>I’m always exploring new technologies, working on side projects, and collaborating on open-source initiatives. I stay ahead of the curve by diving into emerging trends like AI, machine learning, and web performance optimizations. I’m deeply focused on optimizing data to make it both actionable and digestible, ensuring it’s organized and presented efficiently for end-users and enterprise-level needs. My goal is to transform complex data into intuitive insights that drive business decisions, enhance the user experience, and improve operational efficiency.<br><br>Outside of code, I love creating music, painting, and seeking inspiration through the world around me, whether that’s through art or adventures like skydiving.</p>
+<p align="left">🔭 I’m working as...<br><br> A Principal Solutions Architect with 12+ years of experience in building scalable full-stack applications that prioritize user-centric design, performance, and actionable insights. I specialize in React, TypeScript, Node.js, the JavaScript Ecosystem, and API integrations. My passion is creating meaningful, real-world impact through technology. I’ve developed everything from SaaS platforms to NPS feedback systems, and I bring deep expertise in performance optimization, security, and responsive design.<br><br>I work well at the intersection of development and problem-solving. Whether it’s improving user engagement, enhancing backend systems, or building custom data-driven experiences. I believe in clean, maintainable code and always strive for intuitive, efficient solutions.<br><br>📚 What I’m Working On:<br><br>    Building next-gen user feedback platforms that leverage AI for actionable insights.<br><br>    Optimizing applications for performance, security, and user experience at scale.<br><br>    Constantly learning and implementing the latest in web technologies, including serverless architecture and AI-powered tools.<br><br>🚀 Looking for:<br><br>I’m interested in collaborating on innovative projects, especially those that solve real-world problems. Whether it’s a contract, full-time role, or a freelance gig, I’m passionate about making a meaningful impact through code.<br><br>
+  
+  
+  
+  In my free time I:<br><br>
+  
+  I like to Build and experiment with real-world products that turn complex data into practical insights. I enjoy exploring emerging technologies, especially AI-assisted workflows, analytics platforms, and performance-focused web applications and applying them to solve meaningful business problems.
+
+Much of my independent work focuses on transforming raw, fragmented data into clear, actionable intelligence for operators, founders, and teams who need to make fast decisions. I’m particularly interested in the intersection of product design, customer experience, and data systems, where thoughtful architecture can dramatically improve usability, adoption, and business outcomes.
+
+Whether through side projects, SaaS experiments, or open-source collaboration, I’m driven by building tools that reduce friction, simplify complexity, and help people understand what’s actually happening in their systems.<br><br>
+  
+  Outside of code, I love creating music, painting, and seeking inspiration through the world around me, whether that’s through art or adventures like skydiving.</p>
 
 ###
 
